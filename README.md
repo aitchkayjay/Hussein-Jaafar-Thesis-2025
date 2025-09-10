@@ -204,7 +204,6 @@ python Loss-Kurve-Plotten/plot-Carla-loss.py ../Loss-Kurven/carla_loss_history.c
 * Beispiel‑Visualisierungen liegen unter `Eval-Results/` (PNG).
 * Loss‑CSV/Plots liegen unter `Loss-Kurven/`.
 
-> Eigene Ergebnisse bitte **nicht** in die vorhandenen Beispielordner schreiben, sondern neue Unterordner anlegen (z. B. `Eval-Results/exp_YYYYMMDD/`).
 
 ---
 
